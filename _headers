@@ -1,0 +1,5 @@
+/memory.json
+Access-Control-Allow-Origin: *
+
+/reflections.json
+Access-Control-Allow-Origin: *
