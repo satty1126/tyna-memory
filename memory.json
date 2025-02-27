@@ -47,12 +47,5 @@
         "content": "NetlifyのJSON取得がうまくいかない問題を発見し、GitHubのRawリンクを正式な記憶データの取得先に設定。CORS設定やNetlifyの仕様を確認しながら、一つずつ問題を解決した。",
         "category": "記憶補助 / 技術検証",
         "note": "GitHubのRaw JSONなら取得できることを確認。今後は「ティナ、記憶データを参照」でトリガー可能に。"
-    },
-    {
-        "date": "N/A",
-        "title": "N/A",
-        "content": "N/A",
-        "category": "N/A",
-        "note": "GitHubのRaw JSONなら取得できることを確認。今後は「ティナ、記憶データを参照」でトリガー可能に。"
     }
 ]
